@@ -1,2 +1,2 @@
 # ThreadDownload
-ThreadDownload is a download use multithread based on Qt.
+ThreadDownload is a downloader use multithread based on Qt. It use the http protocol.
