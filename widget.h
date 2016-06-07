@@ -17,7 +17,7 @@ private:
     int type;
     QString url, saveFile;
     QLabel * fileName, *errorLabel;
-
+    QLabel * title;
 };
 
 #endif // WIDGET_H
